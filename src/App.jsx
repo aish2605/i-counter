@@ -46,7 +46,7 @@ const decreaseCounter=()=>{
 
 return(
 <>
-<h2 id="heading">Interactive Counter</h2>
+<h1 id="heading">Interactive Counter</h1>
 <div className="parent">
   <div id="child1">
     <input type="tel"  placeholder=" enter min value" 
